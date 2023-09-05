@@ -1,5 +1,7 @@
-You can view the demo: https://uniswap-v2-xq.netlify.app
 -------------------------------------------------------------------------------------------------------
+
+You can view the demo: https://uniswap-v2-xq.netlify.app
+
 This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
 
 ## Project Structure
