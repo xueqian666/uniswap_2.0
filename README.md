@@ -1,3 +1,5 @@
+You can view the demo: https://uniswap-v2-xq.netlify.app
+-------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
 
 ## Project Structure
@@ -135,4 +137,4 @@ Replace `paulrberg/create-eth-app` in the package.json script with your subgraph
 You may also want to [read more about the hosted service](https://thegraph.com/docs/quick-start#hosted-service).
 
 
-You can view the demo: https://uniswap-v2-xq.netlify.app
+
